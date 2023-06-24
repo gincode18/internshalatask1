@@ -1,0 +1,170 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+* {
+  font-family: 'Roboto', sans-serif;
+  padding: 0;
+  margin: 0;
+  color: black;
+}
+
+
+
+/* NAVIGATION */
+
+
+
+
+.about_us{
+  display: block;
+  width: 100%;
+  min-height: 60vh;
+  background: linear-gradient(
+      rgba(240, 234, 216, 0.8),
+      rgba(255, 127, 117, 0.3)
+    ),
+    center/cover no-repeat;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  position: relative;
+  padding: 150px 10% 50px 10%;
+}
+
+.about_us > h2{
+  display: block;
+  color: rgba(255, 255, 255, 1);
+  font-size: 32px;
+  line-height: 31px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  margin: 0 auto 30px;
+}
+
+.about_us > span {
+  display: block;
+  color: rgba(255, 255, 255, 1);
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.75;
+  margin: 20px auto 10px;
+}
+
+.about_us > p{
+  display: block;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.75;
+  margin: 0 auto 10px;
+}
+
+.about_us > img{
+  display: block;
+  margin-bottom: 20px;
+}
+
+.about_us > .mission{
+  color: black;
+  display: blcok;
+  width: 60%;
+  box-sizing: border-box;
+  border-radius: 10px;
+  background:rgba(169, 145, 73, 0.8),
+  rgba(255, 127, 117, 0.3);
+  margin-left: 20%;
+  padding: 5px 10px; 
+
+}
+
+.about_us > .mission > span{
+  display: block;
+  margin: 0 auto 10px;
+  font-size: x-large;
+  text-align: center;
+  font-weight: 500;
+  line-height: 1.75;
+}
+.about_us > .mission > p{
+  display: block;
+  color: black;
+  margin: 0 auto 10px;
+  text-align: center;
+  font-weight: 500;
+  line-height: 1.75;
+}
+
+
+
+.footer {
+  background: rgba(240, 234, 216, 0.8),
+  rgba(255, 127, 117, 0.3);
+  color: black;
+  display: block;
+  width: 100%;
+  position: auto;
+}
+.footer > .address {
+  display: inline-block;
+  position: relative;
+  margin-left: 10%;
+  margin-top: 50px;
+  width: auto;
+  float: left;
+}
+.footer > .address > span{
+  display: block;
+  padding-top: 10px;
+}
+.footer > .phone {
+  display: inline-block;
+  width: auto;
+  position: relative;
+  margin-right: 10%;
+  margin-top: 50px;
+  float: right;
+}
+.footer > .phone > span{
+  display: block;
+  padding-top: 10px;
+  text-align: right;
+}
+.footer > .email {
+  margin-right: 10%;
+  margin-top: 10px;
+  width: 100%;
+  display: inline-block;
+  position: relative;
+  float: right;
+}
+.footer > .email > .email{
+  display: block;
+  padding-top: 10px;
+  text-align: right;
+  text-decoration: none;
+  color: black;
+}
+.footer > .copyright {
+  display: inline-block;
+  margin: 70px 0 60px 10%;
+  width: 80%;
+  position: relative;
+}
+
+
+
+
+
+/* NAVIGATION */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
